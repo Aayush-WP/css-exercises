@@ -1,0 +1,19 @@
+.odd-ones{
+    background-color : #FFC0CB;
+    font-family: Verdana, "DejaVu Sans" , sans-serif ;
+}
+
+#second{
+    color: Blue;
+    size:36px;
+}
+
+#third{
+    size:24px;
+}
+
+#fourth{
+    background-color: rgb(144,238,144);
+    size:24px;
+    font-weight:bold;
+}
